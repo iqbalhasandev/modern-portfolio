@@ -1,3 +1,6 @@
+<?php require_once('./private/init.php') ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
